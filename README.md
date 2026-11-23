@@ -18,6 +18,7 @@
 | **天天技库** | AI/机器学习、Python/Go/Linux/408、浏览器效率插件、Excel/PPT、可商用字体/UI 素材 | [pan-tech.fullday.cn](https://pan-tech.fullday.cn/) |
 | **天天语库** | 英语四六级/雅思托福、日韩法德俄拉丁语、Anki 记忆牌组、词典与原版阅读 | [pan-lang.fullday.cn](https://pan-lang.fullday.cn/) |
 | **天天书单** | Kindle / 微信读书友好格式（EPUB/MOBI/AZW3）、豆瓣高分书单、人文历史丛书与讲书 | [pan-books.fullday.cn](https://pan-books.fullday.cn/) |
+| **天天视听** | 高分自然历史纪录片、经典影视动漫、无损音频与外语精听素材 | [pan-media.fullday.cn](https://pan-media.fullday.cn/) |
 
 ---
 
@@ -83,3 +84,11 @@
 - [电子书刊分类](https://pan.fullday.cn/c/ebooks/)
 - [教程考证分类](https://pan.fullday.cn/c/courses/)
 - [设计素材分类](https://pan.fullday.cn/c/design-media/)
+
+---
+
+## 六、配套纯本地效率工具与站点生态
+
+- **Fullday 在线工具箱（浏览器纯本地运行、文件零上传）**：[util.fullday.cn](https://util.fullday.cn/) — 在线 EPUB 阅读器、PDF 合并拆分转图片、图片压缩与防盗水印、公众号 Markdown 排版、Mermaid 绘图、JSON 对比与 2FA 口令
+- **Fullday 个人工作台官网**：[fullday.cn](https://fullday.cn/)
+- **Fullday 休闲单机网页游戏中心**：[game.fullday.cn](https://game.fullday.cn/)

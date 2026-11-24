@@ -7,10 +7,38 @@
 
 整理自用的中文技术电子书、AI 学习路线、外语词典/语法资料、人文社科书单与效率设计素材索引库。所有条目均带**二级文件目录预览**与直链归档，纯静态无广告弹窗，持续更新。
 
-> 总检索入口（4,300+ 条分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
+> 总检索入口（4,224 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
 
 ---
 
+## 2026-11-24 本期精选新增（+100 条 · 476 GB）
+
+> 完整今日新增归档页（含二级目录预览与夸克直链）：**[2026-11-24 每日精选汇总](https://pan.fullday.cn/daily/2026-11-24/)**
+
+- **[AI与软件]** [Claude Code 入门到实战视频教程(8集全) (445 MB)](https://pan.fullday.cn/r/claude-code-8-bd91e3df/)
+- **[AI与软件]** [Vibe Coding 实战开发指南:Claude Code、Cursor 与 Codex 全栈应用(国语) (3.01 GB)](https://pan.fullday.cn/r/vibe-coding-claude-code-cursor-codex-132ea10e/)
+- **[AI与软件]** [Claude Code 底层源码深度拆解视频教程(51节全) (618 MB)](https://pan.fullday.cn/r/claude-code-51-ff8c911e/)
+- **[AI与软件]** [《Claude Code 实战:Harness 工程之道》黄佳(EPUB+AZW3+MOBI) (41.1 MB)](https://pan.fullday.cn/r/claude-code-harness-epub-azw3-mobi-b3156e9f/)
+- **[AI与软件]** [图灵编程电子书合集:229 本 Python、机器学习与全栈开发技术指南(PDF) (3.57 GB)](https://pan.fullday.cn/r/229-python-pdf-c929b40b/)
+- **[AI与软件]** [极客时间《Go 语言从入门到实战》系统视频教程(56节) (10.2 GB)](https://pan.fullday.cn/r/go-56-fe469cc6/)
+- **[AI与软件]** [AI Agent 智能体开发学习与案例资料大合集(821文件) (16.4 GB)](https://pan.fullday.cn/r/ai-agent-821-40b63f3d/)
+- **[电子书刊]** [理想国译丛 MIRROR 系列套装 32 册(EPUB+AZW3) (199 MB)](https://pan.fullday.cn/r/mirror-32-epub-azw3-2967b0a2/)
+- **[电子书刊]** [华章教材经典译丛·金融投资清明上河图系列(套装共11册 AZW3) (350 MB)](https://pan.fullday.cn/r/11-azw3-4d4fbf56/)
+- **[电子书刊]** [《存在与虚无(修订译本)》萨特·现代西方学术文库 三联书店(PDF) (137 MB)](https://pan.fullday.cn/r/pdf-8eb432da/)
+- **[电子书刊]** [《刘慈欣短篇科幻小说合集》(套装共28册 EPUB+MOBI) (3.74 MB)](https://pan.fullday.cn/r/28-epub-mobi-a566b77d/)
+- **[教程考证]** [软考高级·系统分析师视频教程与历年真题资料(倪奕文 93文件) (18.0 GB)](https://pan.fullday.cn/r/93-36180c29/)
+- **[设计素材]** [Blender 三维建模进阶全套视频课程(219节) (4.12 GB)](https://pan.fullday.cn/r/blender-219-f1b2fe47/)
+- **[设计素材]** [拍片学院·达芬奇 DaVinci Resolve 调色 S1 系统专业课程(134文件) (7.59 GB)](https://pan.fullday.cn/r/davinci-resolve-s1-134-6a1df4ea/)
+- **[设计素材]** [6000+ 款免费可商用字体包精选整理 (4.19 GB)](https://pan.fullday.cn/r/6000-bea1dc73/)
+- **[外语学习]** [日语零基础直达 JLPT N1 全套系统学习资料(370文件) (1.85 GB)](https://pan.fullday.cn/r/jlpt-n1-370-9e5884b2/)
+- **[外语学习]** [《DK 英语 10000 词》图解视觉英语词典(高清 PDF + 原声音频) (400 MB)](https://pan.fullday.cn/r/dk-10000-pdf-8c3461bd/)
+- **[电子资料]** [Excel 函数宝典与可视化图表动态看板模板大全(663文件) (119 MB)](https://pan.fullday.cn/r/excel-663-f0492013/)
+- **[电影纪录片]** [日本电影大师黑泽明 28 部经典电影全集收藏版(59文件) (27.0 GB)](https://pan.fullday.cn/r/28-59-758d1f32/)
+- **[电影纪录片]** [BBC 经典自然纪录片《生命故事 Life Story》(2014 1080P 全6集内封字幕) (26.8 GB)](https://pan.fullday.cn/r/bbc-life-story-2014-1080p-6-bfc68e1f/)
+- **[动漫漫画]** [井上雄彦《灌篮高手》单行本 1–31 卷全彩漫画(PDF 完整版) (748 MB)](https://pan.fullday.cn/r/1-31-pdf-d5a67b34/)
+- **[音乐有声]** [《我的第一套古典音乐专辑》10 CD 套装无损典藏版(218首 FLAC) (3.12 GB)](https://pan.fullday.cn/r/10-cd-218-flac-17ba187a/)
+
+---
 ## 一、垂直专题分馆（按领域直达）
 
 | 专题分馆 | 核心内容 | 直达入口 |

@@ -7,12 +7,13 @@
 
 整理自用的中文技术电子书、AI 学习路线、外语词典/语法资料、人文社科书单与效率设计素材索引库。所有条目均带**二级文件目录预览**与直链归档，纯静态无广告弹窗，持续更新。
 
-> 总检索入口（4,225 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
+> 总检索入口（4,226 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
 
 ---
 
 ## 2026-11-25 单品精选增补
 
+- **[AI与软件 · 智能体提效]** [零基础玩转AI智能体：自动做周报、合并表格、一键生成工具（WorkBuddy+Codex+飞书自动化提效14讲）(175 MB)](https://pan.fullday.cn/r/ai-agent-workbuddy-codex-feishu-b1929acb/)（同步收录于 [天天技库 · AI 大模型专题](https://pan-tech.fullday.cn/guide/ai-ml/)）
 - **[电子书刊 · 商业经管]** [《3.8万字生财有术往期日历合集》(PDF · 188页 / 6.36 MB)](https://pan.fullday.cn/r/shengcaiyoushu-rili-38k-pdf-a314b68a/)（同步收录于 [天天书单 · 商业经管专题](https://pan-books.fullday.cn/guide/business-economics/)）
 
 ---

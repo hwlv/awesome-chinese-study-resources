@@ -7,7 +7,7 @@
 
 整理自用的中文技术电子书、AI 学习路线、外语词典/语法资料、人文社科书单与效率设计素材索引库。所有条目均带**二级文件目录预览**与直链归档，纯静态无广告弹窗，持续更新。
 
-> 总检索入口（4,326 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
+> 总检索入口（4,426 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
 
 ---
 
@@ -21,6 +21,39 @@
 
 ---
 
+## 2026-11-26 本期精选新增（+100 条 · 254 GB）
+
+> 完整今日新增归档页（含二级目录预览与夸克直链）：**[2026-11-26 每日精选汇总](https://pan.fullday.cn/daily/2026-11-26/)**
+
+- **[AI与软件]** [DeepSeek+Dify+Ollama 三剑客大模型本地部署与实战教程(18节 MP4) (915 MB)](https://pan.fullday.cn/r/deepseek-dify-ollama-18-mp4-c9053d00/)
+- **[AI与软件]** [尹会生《从零开始部署 Dify》完整实战教程(完结) (671 MB)](https://pan.fullday.cn/r/dify-33a7ca2f/)
+- **[AI与软件]** [全自动 AI 短视频工厂：n8n 自动化工作流配置与实战教程 (780 MB)](https://pan.fullday.cn/r/ai-n8n-6d781710/)
+- **[AI与软件]** [《Happy-LLM：从零开始构建大模型》开源书精排电子书(EPUB+AZW3) (38.2 MB)](https://pan.fullday.cn/r/happy-llm-epub-azw3-1cf2a77b/)
+- **[AI与软件]** [2024 RAG 检索增强生成大模型实战资料全集(107文件) (420 MB)](https://pan.fullday.cn/r/2024-rag-107-901ad0c8/)
+- **[AI与软件]** [《动手学深度学习（PyTorch 版）》电子书与配套资料(PDF) (52.6 MB)](https://pan.fullday.cn/r/pytorch-pdf-65c2be21/)
+- **[AI与软件]** [唐宇迪《零基础入门实战深度学习 PyTorch》系统视频课(78节 MP4) (2.66 GB)](https://pan.fullday.cn/r/pytorch-78-mp4-c77c21b9/)
+- **[AI与软件]** [《Redis 实战》中文完整版电子书(PDF) (60.7 MB)](https://pan.fullday.cn/r/redis-pdf-12f2d729/)
+- **[电子书刊]** [商务印书馆《汉译世界学术名著丛书》120册精选大合集(EPUB+AZW3) (300 MB)](https://pan.fullday.cn/r/120-epub-azw3-cc8a2e41/)
+- **[电子书刊]** [东野圭吾作品全集套装 98 册典藏版(EPUB) (31.6 MB)](https://pan.fullday.cn/r/98-epub-1ac05f0f/)
+- **[电子书刊]** [三联书店《新知文库》人文科学经典丛书资源合集(2.93 GB) (2.93 GB)](https://pan.fullday.cn/r/2-93-gb-3ccbf348/)
+- **[电子书刊]** [晚清史大家茅海建作品集套装 5 册（三联书店出品 EPUB） (7.96 MB)](https://pan.fullday.cn/r/5-epub-c19b1ea2/)
+- **[电子书刊]** [马伯庸作品合集套装共 23 册(PDF) (31.9 MB)](https://pan.fullday.cn/r/23-pdf-f71de895/)
+- **[电子书刊]** [余华作品全集电子书大合集(112文件) (89.7 MB)](https://pan.fullday.cn/r/112-6eef3342/)
+- **[电子书刊]** [阿西莫夫《银河帝国》科幻经典全集(PDF) (86.8 MB)](https://pan.fullday.cn/r/pdf-21148207/)
+- **[教程考证]** [2024 一级建造师核心考点总结、电子教材与历年真题合集(163文件 PDF) (2.66 GB)](https://pan.fullday.cn/r/2024-163-pdf-a8915606/)
+- **[教程考证]** [国家统一法律职业资格考试（法考）系统备考资料合集(79文件) (1.18 GB)](https://pan.fullday.cn/r/79-42e77b04/)
+- **[教程考证]** [建国老师《软考高级·信息系统项目管理师》精讲讲义与备考资料(PDF) (141 MB)](https://pan.fullday.cn/r/pdf-1f75a7ed/)
+- **[教程考证]** [CFA 协会金融前沿译丛套装共 5 册(MOBI) (85.8 MB)](https://pan.fullday.cn/r/cfa-5-mobi-ac0440a3/)
+- **[外语学习]** [《万法归宗之英语语法速成全集》系统视频课(77节 MP4) (9.75 GB)](https://pan.fullday.cn/r/77-mp4-a8fb0600/)
+- **[设计素材]** [影视后期全能大合集：Pr预设/无缝转场/Ae插件/C4D插件/LUTs调色包(4,253文件) (20.0 GB)](https://pan.fullday.cn/r/pr-ae-c4d-luts-4-253-7991c381/)
+- **[电子资料]** [财务会计与营销策划精品 Excel 模板大合集（107套 / 212文件） (35.8 MB)](https://pan.fullday.cn/r/excel-107-212-f8447e87/)
+- **[电影纪录片]** [美食人文纪录片《舌尖上的中国 第四季》（2025 全集 MP4） (6.68 GB)](https://pan.fullday.cn/r/2025-mp4-2123db9c/)
+- **[动漫漫画]** [漆原友纪高分治愈神作《虫师》第一季+第二季全集(50文件) (17.2 GB)](https://pan.fullday.cn/r/50-ae4d4a60/)
+- **[动漫漫画]** [今敏影史经典动画电影《千年女优》（2001 1080P 高清 MKV） (4.43 GB)](https://pan.fullday.cn/r/2001-1080p-mkv-cf9ead12/)
+- **[音乐有声]** [PHILIPS 阿劳《贝多芬：钢琴奏鸣曲全集》11CD 美版银圈整轨无损 (3.40 GB)](https://pan.fullday.cn/r/philips-11cd-7b73a6c1/)
+- **[音乐有声]** [周杰伦 Hi-Res 2000-2022 全集（2024环球官方新版·含封面歌词 194文件） (8.32 GB)](https://pan.fullday.cn/r/hi-res-2000-2022-2024-194-3d0db5ee/)
+
+---
 ## 2026-11-25 本期精选新增（+102 条 · 468 GB）
 
 > 完整今日新增归档页（含二级目录预览与夸克直链）：**[2026-11-25 每日精选汇总](https://pan.fullday.cn/daily/2026-11-25/)**

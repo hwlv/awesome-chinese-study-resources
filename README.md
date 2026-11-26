@@ -11,34 +11,14 @@
 
 ---
 
-## 2026-11-25 本期精选新增（+102 条 · 468 GB）
+## 💬 加入微信资源交流群（stone的资源群）
 
-> 完整今日新增归档页（含二级目录预览与夸克直链）：**[2026-11-25 每日精选汇总](https://pan.fullday.cn/daily/2026-11-25/)**
+每日同步最新整理的夸克网盘精选资料、电子书单与求资源互助，欢迎微信扫码加入：
 
-- **[AI与软件]** [AI Agent + MCP 从0到1打造商业级编程智能体实战课程(193文件) (6.99 GB)](https://pan.fullday.cn/r/ai-agent-mcp-0-1-193-9df4d367/)
-- **[AI与软件]** [尚硅谷 Cursor AI编程助手使用指南与代码实战资料包(27文件) (1.03 GB)](https://pan.fullday.cn/r/cursor-ai-27-a9c2dc31/)
-- **[AI与软件]** [零基础玩转AI智能体：WorkBuddy+Codex+飞书自动化提效14讲 (175 MB)](https://pan.fullday.cn/r/ai-agent-workbuddy-codex-feishu-b1929acb/)
-- **[AI与软件]** [极客时间·陈天《Rust编程第一课》完整专栏与源码(180文件) (1.19 GB)](https://pan.fullday.cn/r/rust-180-a9b74b28/)
-- **[AI与软件]** [云原生Kubernetes K8s CKA管理员认证全套实战课(141文件) (5.63 GB)](https://pan.fullday.cn/r/kubernetes-k8s-cka-141-2c2985d9/)
-- **[AI与软件]** [麻省理工学院公开课MIT《算法导论》视频与PDF课件全集(29文件) (4.23 GB)](https://pan.fullday.cn/r/mit-pdf-29-f8ec632c/)
-- **[电子书刊]** [《四库禁毁书丛刊》全300册稀缺古籍影印典藏版 (10.5 GB)](https://pan.fullday.cn/r/300-d38c9a84/)
-- **[电子书刊]** [甲骨文丛书单册与专题合集大典藏(1,133文件) (7.85 GB)](https://pan.fullday.cn/r/1-133-8641efdb/)
-- **[电子书刊]** [企鹅经典小黑书全5辑套装(50册 MOBI) (42.6 MB)](https://pan.fullday.cn/r/5-50-mobi-9edb327b/)
-- **[电子书刊]** [译文纪实大套装·2020版(套装共39册 EPUB) (47.8 MB)](https://pan.fullday.cn/r/2020-39-epub-521f185c/)
-- **[电子书刊]** [阿加莎·克里斯蒂推理小说88本全集典藏版(AZW3) (29.0 MB)](https://pan.fullday.cn/r/88-azw3-99234d13/)
-- **[电子书刊]** [《3.8万字生财有术往期日历合集》(PDF · 6.36 MB)](https://pan.fullday.cn/r/shengcaiyoushu-rili-38k-pdf-a314b68a/)
-- **[教程考证]** [注册会计师CPA全科电子书与轻一备考资料合集(98文件) (9.84 GB)](https://pan.fullday.cn/r/cpa-98-47f3adf5/)
-- **[教程考证]** [考研数学一二三历年真题与高分笔记导图合集(1987-2026 575文件) (2.85 GB)](https://pan.fullday.cn/r/1987-2026-575-39bb2246/)
-- **[外语学习]** [剑桥雅思真题1-19完整版(真题PDF+新东方解析+原声音频 472文件) (3.94 GB)](https://pan.fullday.cn/r/1-19-pdf-472-a4198055/)
-- **[外语学习]** [牛津树分级阅读1-9阶英文原版绘本与高清PDF全套(1,045文件) (6.10 GB)](https://pan.fullday.cn/r/1-9-pdf-1-045-4d5cf13d/)
-- **[设计素材]** [黑马程序员Figma零基础到精通与APP项目实战教程 (1.36 GB)](https://pan.fullday.cn/r/figma-app-44-883f89b2/)
-- **[设计素材]** [Adobe官方发布高质量影视后期专业音效素材库(10,267文件) (15.1 GB)](https://pan.fullday.cn/r/adobe-10-267-63aa1012/)
-- **[电子资料]** [Anki记忆卡片全学科分类牌组大合集(105文件) (3.63 GB)](https://pan.fullday.cn/r/anki-105-1322f67b/)
-- **[电影纪录片]** [悬疑电影大师希区柯克经典影片全集收藏版(28部 MKV) (21.1 GB)](https://pan.fullday.cn/r/28-mkv-153c40cf/)
-- **[电影纪录片]** [4K历史人文纪录片《河西走廊》高清完整版 (22.1 GB)](https://pan.fullday.cn/r/4k-2015-mp4-d3d4a78c/)
-- **[电影纪录片]** [坂本龙一音乐纪录片全集(4K+1080P 中字附精选配乐) (23.6 GB)](https://pan.fullday.cn/r/700-4k-1080p-65c6326d/)
-- **[动漫漫画]** [井上雄彦《浪客行》黑白37卷+全彩41卷+双画集珍藏版(PDF) (16.7 GB)](https://pan.fullday.cn/r/37-41-pdf-424-17b31eef/)
-- **[音乐有声]** [宫崎骏与久石让电影原声交响乐无损典藏合集(APE+CUE) (15.7 GB)](https://pan.fullday.cn/r/ape-cue-e1d49d79/)
+<img src="./assets/wechat-group-qr.jpg" alt="stone的资源群微信二维码" width="240" />
+
+> 二维码有效期至 **2026-12-03**；如过期或群满 200 人，可添加微信号 `IsMasterLv`（备注「进群」或所需资源）拉群。
+
 ---
 
 ## 2026-11-25 本期精选新增（+102 条 · 468 GB）

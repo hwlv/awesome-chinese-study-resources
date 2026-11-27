@@ -7,7 +7,7 @@
 
 整理自用的中文技术电子书、AI 学习路线、外语词典/语法资料、人文社科书单与效率设计素材索引库。所有条目均带**二级文件目录预览**与直链归档，纯静态无广告弹窗，持续更新。
 
-> 总检索入口（4,426 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
+> 总检索入口（4,455 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
 
 ---
 
@@ -18,6 +18,42 @@
 <img src="./assets/wechat-group-qr.jpg" alt="stone的资源群微信二维码" width="240" />
 
 > 二维码有效期至 **2026-12-03**；如过期或群满 200 人，可添加微信号 `IsMasterLv`（备注「进群」或所需资源）拉群。
+
+---
+
+## 2026-11-27 热搜缺口定向增补（+29 条 · 137 GB）
+
+> 按站内用户搜索缺口定向补齐 29 份高质量归档资料（含二级目录预览与夸克直链）：**[全站实时检索](https://pan.fullday.cn/search/)**
+
+- **[电子书刊]** [《牧神记》宅猪 精校完整全本小说（TXT 电子书） (18.1 MB)](https://pan.fullday.cn/r/mushenji-novel-txt-f5b9277f/)
+- **[音乐有声]** [《牧神记》多人有声剧全集（宅猪原著 · 领先声创 743 集） (8.11 GB)](https://pan.fullday.cn/r/mushenji-audiobook-743-ed6ff2fb/)
+- **[电子书刊]** [《全彩图解电子工程师入门手册》电子工程师零基础自学指南（多格式电子书） (149 MB)](https://pan.fullday.cn/r/electronics-engineer-handbook-32143f83/)
+- **[电子书刊]** [《电子工程师必备：元器件应用宝典》电子元件识别与电路设计手册 (34.6 MB)](https://pan.fullday.cn/r/electronics-components-bible-a1067847/)
+- **[电子书刊]** [《电子工程师必备：关键技能速成宝典》零基础电子技术实战指南 (70.9 MB)](https://pan.fullday.cn/r/electronics-engineer-skills-bb093e47/)
+- **[电子书刊]** [《电子工程师必备：九大系统电路识图宝典》电子电路图详解（AZW3） (60.3 MB)](https://pan.fullday.cn/r/electronics-circuit-reading-d33f3b68/)
+- **[电子书刊]** [《电子元器件实用手册与图解》传感器篇+图解电子元件合集（PDF） (109 MB)](https://pan.fullday.cn/r/electronic-components-sensor-pdf-a916c97d/)
+- **[教程考证]** [《机械电子学》电子机械与机电工程经典专业教材（PDF） (10.5 MB)](https://pan.fullday.cn/r/mechatronics-textbook-pdf-2dfc1219/)
+- **[教程考证]** [《机电一体化系统设计》电子机械工程核心专业教程与资料 (13.4 MB)](https://pan.fullday.cn/r/mechatronics-system-design-c6e11414/)
+- **[教程考证]** [零基础自学电气与电子机械工程师教程：电子技术、PLC 原理与动画模拟（851 文件） (4.29 GB)](https://pan.fullday.cn/r/electrical-plc-electronics-selfstudy-37e74d55/)
+- **[教程考证]** [《数字电子技术基础》西安工业大学系统精品视频课程（515 文件） (11.9 GB)](https://pan.fullday.cn/r/digital-electronics-course-xatu-053eb779/)
+- **[电子书刊]** [《音乐是怎样算成的》音乐与数学的爱恨情仇：从毕达哥拉斯到勋伯格（AZW3） (4.13 MB)](https://pan.fullday.cn/r/music-and-math-ebook-6e2e99b6/)
+- **[电影纪录片]** [《追梦赤子心 / 鲁迪传奇》Rudy (1993) 1080P 蓝光中英双字（豆瓣 8.8 经典励志片） (2.17 GB)](https://pan.fullday.cn/r/rudy-1993-1080p-bluray-08a6d6a4/)
+- **[电子书刊]** [尹烨生命科学作品集 8 册合集（《生命密码》《了不起的基因》等全系列电子书） (238 MB)](https://pan.fullday.cn/r/yinye-books-collection-8-32236eca/)
+- **[AI与软件]** [六大 AI 办公工具系统提效课（Kimi / DeepSeek / 豆包 / WPS 实战 28 节） (796 MB)](https://pan.fullday.cn/r/six-ai-office-tools-kimi-course-04bcd21d/)
+- **[AI与软件]** [Kimi AI 提示词与高效内容创作指令大全（248 份 Prompt 实战工具包） (1.44 GB)](https://pan.fullday.cn/r/kimi-ai-prompts-pack-c7b98d1a/)
+- **[电子书刊]** [《存在感：如何改变自己，影响他人》克里斯蒂·赫奇斯（EPUB 电子书） (1.50 MB)](https://pan.fullday.cn/r/presence-book-epub-c1d6b127/)
+- **[电子书刊]** [《绍宋》榴弹怕水 精校完整全本历史小说（TXT 电子书） (8.25 MB)](https://pan.fullday.cn/r/shaosong-novel-txt-da32726a/)
+- **[音乐有声]** [《绍宋》精品多人有声剧全集（榴弹怕水著 · 伍壹先生播 1082 集完结） (4.46 GB)](https://pan.fullday.cn/r/shaosong-audiobook-1082-6bebc3fb/)
+- **[教程考证]** [缠论·缠中说禅系统精讲课程合集：笔、线段、中枢、背驰与买卖点详解（215 文件） (2.33 GB)](https://pan.fullday.cn/r/chanlun-chanzhongshuochan-course-225b329f/)
+- **[设计素材]** [《百变美少女素描技法》日系少女人物绘画与线条速写教程（高清 PDF） (56.3 MB)](https://pan.fullday.cn/r/anime-girl-sketch-techniques-pdf-3c93b68b/)
+- **[设计素材]** [《百变古风美少女素描技法》古风少女手绘线稿与造型教程（高清 PDF） (68.0 MB)](https://pan.fullday.cn/r/gufeng-girl-sketch-techniques-pdf-af4b8cf7/)
+- **[动漫漫画]** [《JOJO 的奇妙冒险》全系列漫画 1–8 部完结（台湾东立高清 MOBI） (9.89 GB)](https://pan.fullday.cn/r/jojo-manga-1-8-mobi-e5af8bd8/)
+- **[动漫漫画]** [《海贼王》剧场版动画 1–15 部全合集（中日双语高清 109 文件） (23.9 GB)](https://pan.fullday.cn/r/one-piece-movies-1-15-collection-29700bae/)
+- **[音乐有声]** [杨钰莹《精选甜歌皇后 28 首 · 我在春天等你》无损 WAV 分轨珍藏专辑 (821 MB)](https://pan.fullday.cn/r/yangyuying-28-lossless-wav-27f8e3b0/)
+- **[电影纪录片]** [星球大战《曼达洛人》The Mandalorian 第 1–3 季全集（高清特效中英字幕） (35.0 GB)](https://pan.fullday.cn/r/the-mandalorian-s1-s3-collection-dc342d38/)
+- **[动漫漫画]** [《贤者之孙》2019 高清完整版动画全集（日语中字 13 文件） (2.95 GB)](https://pan.fullday.cn/r/kenja-no-mago-anime-2019-7ee78a1f/)
+- **[电子书刊]** [《刺客信条》官方小说全 14 册大合集（Assassin's Creed 电子书） (47.9 MB)](https://pan.fullday.cn/r/assassins-creed-novels-14-217b32ca/)
+- **[动漫漫画]** [《小公交车太友》Tayo the Little Bus 第 1–6 季全集（儿童启蒙动画 373 集） (28.3 GB)](https://pan.fullday.cn/r/tayo-the-little-bus-s1-s6-f9d104b7/)
 
 ---
 

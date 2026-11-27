@@ -7,7 +7,7 @@
 
 整理自用的中文技术电子书、AI 学习路线、外语词典/语法资料、人文社科书单与效率设计素材索引库。所有条目均带**二级文件目录预览**与直链归档，纯静态无广告弹窗，持续更新。
 
-> 总检索入口（4,455 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
+> 总检索入口（4,526 条精选分类索引）：**[天天资源 pan.fullday.cn](https://pan.fullday.cn/search/)** · [RSS 订阅](https://pan.fullday.cn/rss.xml)
 
 ---
 
@@ -21,40 +21,50 @@
 
 ---
 
-## 2026-11-27 热搜缺口定向增补（+29 条 · 137 GB）
+## 2026-11-27 本期精选新增（+100 条 · 402 GB）
 
-> 按站内用户搜索缺口定向补齐 29 份高质量归档资料（含二级目录预览与夸克直链）：**[全站实时检索](https://pan.fullday.cn/search/)**
+> 完整今日新增归档页（含二级目录预览与夸克直链，含凌晨热搜缺口补采 29 条）：**[2026-11-27 每日精选汇总](https://pan.fullday.cn/daily/2026-11-27/)**
 
-- **[电子书刊]** [《牧神记》宅猪 精校完整全本小说（TXT 电子书） (18.1 MB)](https://pan.fullday.cn/r/mushenji-novel-txt-f5b9277f/)
-- **[音乐有声]** [《牧神记》多人有声剧全集（宅猪原著 · 领先声创 743 集） (8.11 GB)](https://pan.fullday.cn/r/mushenji-audiobook-743-ed6ff2fb/)
-- **[电子书刊]** [《全彩图解电子工程师入门手册》电子工程师零基础自学指南（多格式电子书） (149 MB)](https://pan.fullday.cn/r/electronics-engineer-handbook-32143f83/)
-- **[电子书刊]** [《电子工程师必备：元器件应用宝典》电子元件识别与电路设计手册 (34.6 MB)](https://pan.fullday.cn/r/electronics-components-bible-a1067847/)
-- **[电子书刊]** [《电子工程师必备：关键技能速成宝典》零基础电子技术实战指南 (70.9 MB)](https://pan.fullday.cn/r/electronics-engineer-skills-bb093e47/)
-- **[电子书刊]** [《电子工程师必备：九大系统电路识图宝典》电子电路图详解（AZW3） (60.3 MB)](https://pan.fullday.cn/r/electronics-circuit-reading-d33f3b68/)
-- **[电子书刊]** [《电子元器件实用手册与图解》传感器篇+图解电子元件合集（PDF） (109 MB)](https://pan.fullday.cn/r/electronic-components-sensor-pdf-a916c97d/)
-- **[教程考证]** [《机械电子学》电子机械与机电工程经典专业教材（PDF） (10.5 MB)](https://pan.fullday.cn/r/mechatronics-textbook-pdf-2dfc1219/)
-- **[教程考证]** [《机电一体化系统设计》电子机械工程核心专业教程与资料 (13.4 MB)](https://pan.fullday.cn/r/mechatronics-system-design-c6e11414/)
-- **[教程考证]** [零基础自学电气与电子机械工程师教程：电子技术、PLC 原理与动画模拟（851 文件） (4.29 GB)](https://pan.fullday.cn/r/electrical-plc-electronics-selfstudy-37e74d55/)
+- **[AI与软件]** [Claude Code 入门到实战教程（8 集完整视频课） (445 MB)](https://pan.fullday.cn/r/claude-code-8-lessons-course-9359b128/)
+- **[AI与软件]** [WorkBuddy 零基础实战教程：从入门到上手全流程（附电子书） (3.85 GB)](https://pan.fullday.cn/r/workbuddy-zero-to-one-course-babfd232/)
+- **[AI与软件]** [WorkBuddy 24 套个人工作台一键搭建提示词合集 (1.07 GB)](https://pan.fullday.cn/r/workbuddy-24-workspace-prompts-c97b47cd/)
+- **[AI与软件]** [卢菁博士《AI 大模型微调实战训练营》系统视频课程 (2.34 GB)](https://pan.fullday.cn/r/dr-lu-llm-finetuning-camp-30d12a3a/)
+- **[AI与软件]** [极客时间《MySQL 实战 45 讲》完整图文与音频专栏（PDF+MP3） (371 MB)](https://pan.fullday.cn/r/geektime-mysql-45-lectures-224945a5/)
+- **[AI与软件]** [《从 0 开始带你成为 MySQL 实战优化高手》46 个生产案例（PDF） (76.5 MB)](https://pan.fullday.cn/r/mysql-46-production-tuning-pdf-098917c7/)
+- **[AI与软件]** [Go 语言高性能实战流媒体视频网站开发（带源码课件） (11.6 GB)](https://pan.fullday.cn/r/golang-streaming-video-project-b11a8c8d/)
+- **[AI与软件]** [Netty 从零实现 RPC 框架与 Spring Boot 实战项目教程 (15.5 GB)](https://pan.fullday.cn/r/netty-rpc-springboot-project-7b461e0c/)
+- **[AI与软件]** [《PostgreSQL 从零开始学》数据库入门与开发指南（EPUB） (307 KB)](https://pan.fullday.cn/r/postgresql-from-scratch-epub-256dc68e/)
+- **[AI与软件]** [Python 操作三大主流数据库实战教程（MySQL / Redis / MongoDB） (2.38 GB)](https://pan.fullday.cn/r/python-three-databases-course-2ce76c87/)
+- **[电子书刊]** [上海译文《睿文馆书系》人文社科精选套装 15 册（多格式） (134 MB)](https://pan.fullday.cn/r/shanghai-yiwen-ruiwenguan-15-223b62a6/)
+- **[电子书刊]** [上海译文《译文纪实系列》高分非虚构套装共 10 册 (93.6 MB)](https://pan.fullday.cn/r/yiwen-nonfiction-10-books-f1e94d30/)
+- **[电子书刊]** [理想国译丛《两次世界大战的战争记忆》套装 5 册（EPUB） (17.7 MB)](https://pan.fullday.cn/r/imaginist-ww-memory-5-epub-9d99568e/)
+- **[电子书刊]** [《金庸作品全集》精排三联经典版全套电子书（PDF+EPUB） (88.9 MB)](https://pan.fullday.cn/r/jinyong-complete-sanlian-epub-29693f0a/)
+- **[电子书刊]** [《阿加莎·克里斯蒂推理小说全集》人民文学版（AZW3） (44.2 MB)](https://pan.fullday.cn/r/agatha-christie-complete-azw3-3bba84b4/)
+- **[电子书刊]** [《王小波全集》经典小说与杂文套装全 10 册 (7.26 MB)](https://pan.fullday.cn/r/wang-xiaobo-complete-10-books-80b6222a/)
+- **[电子书刊]** [刘慈欣《三体》全集套装共 3 册（读客经典文库全格式） (15.0 MB)](https://pan.fullday.cn/r/three-body-trilogy-complete-01952ada/)
+- **[电子书刊]** [茨威格《人类群星闪耀时》后浪文学大家作品集套装 4 册 (33.4 MB)](https://pan.fullday.cn/r/zweig-stellar-moments-4-books-0089554a/)
+- **[电子书刊]** [《中信出版豆瓣高分盘点》商业经管精选套装 10 册（EPUB+PDF） (665 MB)](https://pan.fullday.cn/r/citic-douban-top-business-10-eeaf5649/)
+- **[外语学习]** [《新标准日本语》初级上册讲练结合系统视频课程 (6.81 GB)](https://pan.fullday.cn/r/standard-japanese-basic-1-dfdf7ce5/)
+- **[外语学习]** [《延世韩国语》1–6 册高清电子课本套装（共六册） (1.07 GB)](https://pan.fullday.cn/r/yonsei-korean-textbooks-6-6cd56217/)
+- **[外语学习]** [《走遍德国》欧标 B2 进阶教学课件与语法资料 (18.0 GB)](https://pan.fullday.cn/r/passwort-deutsch-b2-course-218c4782/)
+- **[外语学习]** [1980–2025 历年考研英语真题与解析完整归档合集 (10.2 GB)](https://pan.fullday.cn/r/kaoyan-english-1980-2025-726d91c0/)
+- **[教程考证]** [注册会计师 CPA 六科电子教材与备考学习资料大合集 (9.84 GB)](https://pan.fullday.cn/r/cpa-six-subjects-study-pack-d5dc5c42/)
+- **[教程考证]** [2025 中级会计职称三科精讲课程与高频考点讲义 (5.82 GB)](https://pan.fullday.cn/r/mid-accounting-2025-course-4d36396d/)
 - **[教程考证]** [《数字电子技术基础》西安工业大学系统精品视频课程（515 文件） (11.9 GB)](https://pan.fullday.cn/r/digital-electronics-course-xatu-053eb779/)
-- **[电子书刊]** [《音乐是怎样算成的》音乐与数学的爱恨情仇：从毕达哥拉斯到勋伯格（AZW3） (4.13 MB)](https://pan.fullday.cn/r/music-and-math-ebook-6e2e99b6/)
-- **[电影纪录片]** [《追梦赤子心 / 鲁迪传奇》Rudy (1993) 1080P 蓝光中英双字（豆瓣 8.8 经典励志片） (2.17 GB)](https://pan.fullday.cn/r/rudy-1993-1080p-bluray-08a6d6a4/)
-- **[电子书刊]** [尹烨生命科学作品集 8 册合集（《生命密码》《了不起的基因》等全系列电子书） (238 MB)](https://pan.fullday.cn/r/yinye-books-collection-8-32236eca/)
-- **[AI与软件]** [六大 AI 办公工具系统提效课（Kimi / DeepSeek / 豆包 / WPS 实战 28 节） (796 MB)](https://pan.fullday.cn/r/six-ai-office-tools-kimi-course-04bcd21d/)
-- **[AI与软件]** [Kimi AI 提示词与高效内容创作指令大全（248 份 Prompt 实战工具包） (1.44 GB)](https://pan.fullday.cn/r/kimi-ai-prompts-pack-c7b98d1a/)
-- **[电子书刊]** [《存在感：如何改变自己，影响他人》克里斯蒂·赫奇斯（EPUB 电子书） (1.50 MB)](https://pan.fullday.cn/r/presence-book-epub-c1d6b127/)
-- **[电子书刊]** [《绍宋》榴弹怕水 精校完整全本历史小说（TXT 电子书） (8.25 MB)](https://pan.fullday.cn/r/shaosong-novel-txt-da32726a/)
-- **[音乐有声]** [《绍宋》精品多人有声剧全集（榴弹怕水著 · 伍壹先生播 1082 集完结） (4.46 GB)](https://pan.fullday.cn/r/shaosong-audiobook-1082-6bebc3fb/)
-- **[教程考证]** [缠论·缠中说禅系统精讲课程合集：笔、线段、中枢、背驰与买卖点详解（215 文件） (2.33 GB)](https://pan.fullday.cn/r/chanlun-chanzhongshuochan-course-225b329f/)
-- **[设计素材]** [《百变美少女素描技法》日系少女人物绘画与线条速写教程（高清 PDF） (56.3 MB)](https://pan.fullday.cn/r/anime-girl-sketch-techniques-pdf-3c93b68b/)
-- **[设计素材]** [《百变古风美少女素描技法》古风少女手绘线稿与造型教程（高清 PDF） (68.0 MB)](https://pan.fullday.cn/r/gufeng-girl-sketch-techniques-pdf-af4b8cf7/)
-- **[动漫漫画]** [《JOJO 的奇妙冒险》全系列漫画 1–8 部完结（台湾东立高清 MOBI） (9.89 GB)](https://pan.fullday.cn/r/jojo-manga-1-8-mobi-e5af8bd8/)
-- **[动漫漫画]** [《海贼王》剧场版动画 1–15 部全合集（中日双语高清 109 文件） (23.9 GB)](https://pan.fullday.cn/r/one-piece-movies-1-15-collection-29700bae/)
-- **[音乐有声]** [杨钰莹《精选甜歌皇后 28 首 · 我在春天等你》无损 WAV 分轨珍藏专辑 (821 MB)](https://pan.fullday.cn/r/yangyuying-28-lossless-wav-27f8e3b0/)
-- **[电影纪录片]** [星球大战《曼达洛人》The Mandalorian 第 1–3 季全集（高清特效中英字幕） (35.0 GB)](https://pan.fullday.cn/r/the-mandalorian-s1-s3-collection-dc342d38/)
-- **[动漫漫画]** [《贤者之孙》2019 高清完整版动画全集（日语中字 13 文件） (2.95 GB)](https://pan.fullday.cn/r/kenja-no-mago-anime-2019-7ee78a1f/)
-- **[电子书刊]** [《刺客信条》官方小说全 14 册大合集（Assassin's Creed 电子书） (47.9 MB)](https://pan.fullday.cn/r/assassins-creed-novels-14-217b32ca/)
-- **[动漫漫画]** [《小公交车太友》Tayo the Little Bus 第 1–6 季全集（儿童启蒙动画 373 集） (28.3 GB)](https://pan.fullday.cn/r/tayo-the-little-bus-s1-s6-f9d104b7/)
-
+- **[设计素材]** [翼狐《C4D 教程宝典·重制版》Cinema 4D + Octane 渲染全流程 (9.12 GB)](https://pan.fullday.cn/r/yiihuu-c4d-octane-course-78834e16/)
+- **[设计素材]** [达芬奇 DaVinci Resolve 影视调色从零基础到专业进阶教程 (739 MB)](https://pan.fullday.cn/r/davinci-resolve-color-grading-38a50b69/)
+- **[设计素材]** [免费可商用中英文字体精选大合集（无版权风险设计字库） (13.8 GB)](https://pan.fullday.cn/r/commercial-free-fonts-pack-57286807/)
+- **[设计素材]** [1,200+ 款好莱坞电影预告片配乐与转场影视级音效素材库 (5.61 GB)](https://pan.fullday.cn/r/hollywood-trailer-sfx-1200-a832b1f2/)
+- **[电子资料]** [2025 年终工作汇报与年度规划商务 PPT 模板合集 (3.89 GB)](https://pan.fullday.cn/r/work-report-2025-ppt-pack-70269cd5/)
+- **[电子资料]** [毕业生求职大厂面经与各行业精选 Word/PPT 简历模板合集 (3.89 GB)](https://pan.fullday.cn/r/tech-interview-resume-templates-ff349810/)
+- **[电子资料]** [野村东方国际证券 102 页深度研报《挖掘日本经济下行期的黄金赛道》 (22.2 MB)](https://pan.fullday.cn/r/nomura-japan-economy-102p-pdf-2a011371/)
+- **[电影纪录片]** [美国国家地理高分科学纪录片《科学竞赛》Science Fair 高清版 (2.96 GB)](https://pan.fullday.cn/r/natgeo-science-fair-doc-06a79b94/)
+- **[电影纪录片]** [BBC 深度经济纪录片《巨富与我们》The Super-Rich and Us 全 2 集 1080P 中字 (1.34 GB)](https://pan.fullday.cn/r/the-super-rich-and-us-1080p-c605bbc1/)
+- **[动漫漫画]** [《葬送的芙莉莲》第 1–2 季高清动画完整合集 (21.2 GB)](https://pan.fullday.cn/r/frieren-s1-s2-anime-pack-0da61a52/)
+- **[动漫漫画]** [岸本齐史《火影忍者》完结全卷高清漫画全集 (5.74 GB)](https://pan.fullday.cn/r/naruto-complete-manga-pack-16033986/)
+- **[音乐有声]** [《三体》全六季精品多人有声广播剧完整版（729 声工场） (2.26 GB)](https://pan.fullday.cn/r/three-body-radio-drama-s1-s6-d5c4b766/)
+- **[音乐有声]** [久石让经典电影配乐代表辑无损整轨收藏（WAV+CUE） (782 MB)](https://pan.fullday.cn/r/joe-hisaishi-best-ost-wav-d9a1ab8a/)
+- **[游戏桌游]** [《国际象棋零基础启蒙教学》少儿与初学者入门实战视频课 (1.57 GB)](https://pan.fullday.cn/r/chess-basics-beginner-course-b84aeeae/)
 ---
 
 ## 2026-11-26 本期精选新增（+100 条 · 254 GB）
